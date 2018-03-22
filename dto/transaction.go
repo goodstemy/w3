@@ -24,7 +24,7 @@ package dto
 import (
 	"math/big"
 
-	"github.com/regcostajr/go-web3/complex/types"
+	"github.com/goodstemy/w3/complex/types"
 )
 
 type BlockTransactions struct {
