@@ -22,9 +22,14 @@
 package dto
 
 import (
-	"github.com/regcostajr/go-web3/complex/types"
 	"math/big"
+
+	"github.com/regcostajr/go-web3/complex/types"
 )
+
+type BlockTransactions struct {
+	Hash string `json:"hash,omitempty"`
+}
 
 // TransactionParameters GO transaction to make more easy controll the parameters
 type TransactionParameters struct {
