@@ -24,9 +24,9 @@ package test
 import (
 	"testing"
 
-	web3 "github.com/regcostajr/go-web3"
-	"github.com/regcostajr/go-web3/eth/block"
-	"github.com/regcostajr/go-web3/providers"
+	web3 "github.com/goodstemy/w3"
+	"github.com/goodstemy/w3/eth/block"
+	"github.com/goodstemy/w3/providers"
 )
 
 func TestEthGetBalance(t *testing.T) {

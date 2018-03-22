@@ -158,13 +158,13 @@ TODO List
 ### go get
 
 ```bash
-go get -u github.com/regcostajr/go-web3
+go get -u github.com/goodstemy/w3
 ```
 
 ### glide
 
 ```bash
-glide get github.com/regcostajr/go-web3
+glide get github.com/goodstemy/w3
 ```
 
 ### Requirements
